@@ -45,6 +45,7 @@ Within the sub-folder for your mod, please include a brief README with any detai
 | Creator | Mod Title | Description | 
 | --- | --- | --- |
 | miniwini | [PicoBOB Case](./Community_Submissions/PicoBOB_Case) | Case for PicoBOB |
+| miniwini | [Limit_PCB_Enclosure](./Community_Submissions/Limit_PCB_Enclosure) | Enclosure for Limit Switch PCB |
 
 
 ## Limit Breakout
